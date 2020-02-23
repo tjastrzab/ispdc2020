@@ -7,4 +7,5 @@ The files are named according to the following convention:
 - sample-[size]-minus.txt - a set of examples S_-, where [size] takes on the value 10, 20, ..., 100
 
 Each line in the file represents a different word belonging to the set S_+ or S_-. The end of word is marked by -1.
+
 The line containing only the -1 value denotes the end of the input set.
